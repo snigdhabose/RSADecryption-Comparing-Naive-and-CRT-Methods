@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635859012 source:c:\users\tirth\onedrive\documents\cpp\a2_rsa\rsa_impl.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
